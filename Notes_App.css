@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.notes-app-container {
+    background-color: #AED36C;
+
+    padding: 10px;
+}
+
+.notes-app-main-heading {
+    color: #E9EBED;
+    font-family: "Avenir Next";
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+.notes-app-span-main-heading-1 {
+    color: #033614;
+}
+
+.notes-app-span-main-heading-2 {
+    color: #E9EBED;
+}
+
+.text-area-element {
+    background-color: #E9EBED;
+    font-size: 30px;
+    border-style: solid;
+    border-color: #E9EBED;
+    border-radius: 10px;
+    padding: 15px;
+    color: #033614;
+    font-family: "Avenir";
+}
+
+.notes-app-save-button {
+    background-color: #033614;
+    border-width: 2px;
+    font-family: "Avenir";
+    color: #E9EBED;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    font-size: 22px;
+    padding: 5px;
+    border-style: solid;
+    border-color: #E9EBED;
+}
+
+.notes-app-clear-button {
+    background-color: #E9EBED;
+    border-width: 2px;
+    font-family: "Avenir";
+    color: #033614;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    font-size: 22px;
+    padding: 5px;
+    border-style: solid;
+    border-color: #033614;
+}
